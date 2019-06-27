@@ -1,0 +1,19 @@
+{
+  "name": "prisma-cms.github.io",
+  "version": "1.0.0",
+  "main": "precache-manifest.e05ad7f0659b93e6954147ad8ca90803.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fi1osof",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisma-cms/prisma-cms.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prisma-cms/prisma-cms.github.io/issues"
+  },
+  "homepage": "https://github.com/prisma-cms/prisma-cms.github.io#readme",
+  "description": ""
+}
